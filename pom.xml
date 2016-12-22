@@ -69,7 +69,7 @@
         <repository>
             <id>jlibs-repository</id>
             <name>JLibs Repository</name>
-            <url>https://github.com/santhosh-tekuri/maven-repository/raw/master/</url>
+            <url>https://github.com/santhosh-tekuri/maven-repository/tree/master/</url>
             <layout>default</layout>
         </repository>
     </repositories>
